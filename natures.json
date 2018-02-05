@@ -1,0 +1,146 @@
+{
+    "Cuddly": {
+        "raise": "HP",
+        "lower": "Attack"
+    },
+    "Distracted": {
+        "raise": "HP",
+        "lower": "Defense"
+    },
+    "Proud": {
+        "raise": "HP",
+        "lower": "Special Attack"
+    },
+    "Decisive": {
+        "raise": "HP",
+        "lower": "Special Defense"
+    },
+    "Patient": {
+        "raise": "HP",
+        "lower": "Speed"
+    },
+    "Desperate": {
+        "raise": "Attack",
+        "lower": "HP"
+    },
+    "Lonely": {
+        "raise": "Attack",
+        "lower": "Defense"
+    },
+    "Adamant": {
+        "raise": "Attack",
+        "lower": "Special Attack"
+    },
+    "Naughty": {
+        "raise": "Attack",
+        "lower": "Special Defense"
+    },
+    "Brave": {
+        "raise": "Attack",
+        "lower": "Speed"
+    },
+    "Stark": {
+        "raise": "Defense",
+        "lower": "HP"
+    },
+    "Bold": {
+        "raise": "Defense",
+        "lower": "Attack"
+    },
+    "Impish": {
+        "raise": "Defense",
+        "lower": "Special Attack"
+    },
+    "Lax": {
+        "raise": "Defense",
+        "lower": "Special Defense"
+    },
+    "Relaxed": {
+        "raise": "Defense",
+        "lower": "Speed"
+    },
+    "Curious": {
+        "raise": "Special Attack",
+        "lower": "HP"
+    },
+    "Modest": {
+        "raise": "Special Attack",
+        "lower": "Attack"
+    },
+    "Mild": {
+        "raise": "Special Attack",
+        "lower": "Defense"
+    },
+    "Rash": {
+        "raise": "Special Attack",
+        "lower": "Special Defense"
+    },
+    "Quiet": {
+        "raise": "Special Attack",
+        "lower": "Speed"
+    },
+    "Dreamy": {
+        "raise": "Special Defense",
+        "lower": "HP"
+    },
+    "Calm": {
+        "raise": "Special Defense",
+        "lower": "Attack"
+    },
+    "Gentle": {
+        "raise": "Special Defense",
+        "lower": "Defense"
+    },
+    "Careful": {
+        "raise": "Special Defense",
+        "lower": "Special Attack"
+    },
+    "Sassy": {
+        "raise": "Special Defense",
+        "lower": "Speed"
+    },
+    "Skittish": {
+        "raise": "Speed",
+        "lower": "Hp"
+    },
+    "Timid": {
+        "raise": "Speed",
+        "lower": "Attack"
+    },
+    "Hasty": {
+        "raise": "Speed",
+        "lower": "Defense"
+    },
+    "Jolly": {
+        "raise": "Speed",
+        "lower": "Special Attack"
+    },
+    "Naive": {
+        "raise": "Speed",
+        "lower": "Special Defense"
+    },
+    "Composed": {
+        "raise": "HP",
+        "lower": "HP"
+    },
+    "Hardy": {
+        "raise": "Attack",
+        "lower": "Attack"
+    },
+    "Docile": {
+        "raise": "Defense",
+        "lower": "Defense"
+    },
+    "Bashful": {
+        "raise": "Special Attack",
+        "lower": "Special Attack"
+    },
+    "Quirky": {
+        "raise": "Special Defense",
+        "lower": "Special Defense"
+    },
+    "Serious": {
+        "raise": "Speed",
+        "lower": "Speed"
+    }
+}

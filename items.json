@@ -1,0 +1,577 @@
+[
+    [
+        "Basic Ball",
+        "250",
+        "Basic Pok\u00e9 Ball; often called just a \u201cPok\u00e9 Ball\u201d."
+    ],
+    [
+        "Great Ball",
+        "400",
+        "-10 Modifier. A better Pok\u00e9 Ball with no special effects."
+    ],
+    [
+        "Ultra Ball",
+        "800",
+        "-15 Modifier. The best generic Pok\u00e9 Ball."
+    ],
+    [
+        "Master Ball",
+        "",
+        "-100 Modifier. Incredibly Rare. Worth at least 300,000. Sold nowhere."
+    ],
+    [
+        "Safari Ball",
+        "800",
+        "Used during Safari hunts."
+    ],
+    [
+        "Level Ball",
+        "800",
+        "-20 Modifier if the target is under half the level your active Pok\u00e9mon is."
+    ],
+    [
+        "Lure Ball",
+        "800",
+        "-20 Modifier if the target was baited into the encounter with food."
+    ],
+    [
+        "Moon Ball",
+        "800",
+        "-20 Modifier if the target evolves with an Evolution Stone."
+    ],
+    [
+        "Friend Ball",
+        "800",
+        "-5 Modifier. A caught Pok\u00e9mon will start with +1 Loyalty."
+    ],
+    [
+        "Love Ball",
+        "800",
+        "-30 Modifier if the user has an active Pok\u00e9mon that is of the same evolutionary line as the target, and the opposite gender. Does not work with genderless Pok\u00e9mon."
+    ],
+    [
+        "Heavy Ball",
+        "800",
+        "-5 Modifier for each Weight Class the target is above 1."
+    ],
+    [
+        "Fast Ball",
+        "800",
+        "-20 Modifier if the target has a Movement Capability above 7."
+    ],
+    [
+        "Sport Ball",
+        "800",
+        "Used during Safari hunts."
+    ],
+    [
+        "Premier Ball",
+        "800",
+        "Given as promotional balls during sales."
+    ],
+    [
+        "Repeat Ball",
+        "800",
+        "-20 Modifier if you already own a Pok\u00e9mon of the target\u2019s species."
+    ],
+    [
+        "Timer Ball",
+        "800",
+        "+5 Modifier. -5 to the Modifier after every round since the beginning of the encounter, until the Modifier is -20."
+    ],
+    [
+        "Nest Ball",
+        "800",
+        "-20 Modifier if the target is under level 10."
+    ],
+    [
+        "Net Ball",
+        "800",
+        "-20 Modifier, if the target is Water or Bug type."
+    ],
+    [
+        "Dive Ball",
+        "800",
+        "-20 Modifier, if the target was found underwater or underground."
+    ],
+    [
+        "Luxury Ball",
+        "800",
+        "-5 Modifier. A caught Pok\u00e9mon is easily pleased and starts with a raised happiness."
+    ],
+    [
+        "Heal Ball",
+        "800",
+        "-5 Modifier. A caught Pok\u00e9mon will heal to Max HP immediately upon capture."
+    ],
+    [
+        "Quick Ball",
+        "800",
+        "-20 Modifier. +5 to Modifier after 1 round of the encounter, +10 to Modifier after round 2, +20 to modifier after round 3."
+    ],
+    [
+        "Dusk Ball",
+        "800",
+        "-20 Modifier if it is dark, or if there is very little light out, when used."
+    ],
+    [
+        "Cherish Ball",
+        "800",
+        "-5 Modifier. A decorative Pok\u00e9 Ball often given out during special events."
+    ],
+    [
+        "Park Ball",
+        "800",
+        "-15 Modifier. Used during Safari hunts."
+    ],
+    [
+        "Potion",
+        "200",
+        "Heals 20 Hit Points"
+    ],
+    [
+        "Super Potion",
+        "380",
+        "Heals 35 Hit Points"
+    ],
+    [
+        "Hyper Potion",
+        "800",
+        "Heals 70 Hit Points"
+    ],
+    [
+        "Antidote",
+        "200",
+        "Cures Poison"
+    ],
+    [
+        "Paralyze Heal",
+        "200",
+        "Cures Paralysis"
+    ],
+    [
+        "Burn Heal",
+        "200",
+        "Cures Burns"
+    ],
+    [
+        "Ice Heal",
+        "200",
+        "Cures Freezing"
+    ],
+    [
+        "Full Heal",
+        "450",
+        "Cures all Persistent Status Afflictions"
+    ],
+    [
+        "Full Restore",
+        "1450",
+        "Heals a Pok\u00e9mon for 80 Hit Points and cures any Status Afflictions"
+    ],
+    [
+        "Revive",
+        "300",
+        "Revives fainted Pok\u00e9mon and sets to 20 Hit Points"
+    ],
+    [
+        "Energy Powder",
+        "150",
+        "Heals 25 Hit Points - Repulsive"
+    ],
+    [
+        "Energy Root",
+        "500",
+        "Heals 70 Hit Points - Repulsive"
+    ],
+    [
+        "Heal Powder",
+        "350",
+        "Cure all Persistent Status Afflictions - Repulsive"
+    ],
+    [
+        "Revival Herb",
+        "350",
+        "Revives Pok\u00e9mon and sets to 50% Hit Points - Repulsive"
+    ],
+    [
+        "X Attack",
+        "350",
+        "Increases the Pok\u00e9mon\u2019s Attack by two Combat Stages"
+    ],
+    [
+        "X Defense",
+        "350",
+        "Increases the Pok\u00e9mon\u2019s Defense by two Combat Stages"
+    ],
+    [
+        "X Special",
+        "350",
+        "Increases the Pok\u00e9mon\u2019s Special Attack by two Combat Stages"
+    ],
+    [
+        "X Sp. Defense",
+        "350",
+        "Increases the Pok\u00e9mon\u2019s Special Defense by two Combat Stages"
+    ],
+    [
+        "X Speed",
+        "350",
+        "Increases the Pok\u00e9mon\u2019s Speed by two Combat Stages"
+    ],
+    [
+        "Dire Hit",
+        "600",
+        "Increases Critical Hit Range of all moves by +2."
+    ],
+    [
+        "X Accuracy",
+        "600",
+        "Increases Accuracy by +2."
+    ],
+    [
+        "Guard Spec",
+        "700",
+        "Prevents reduction of Combat Stages or Accuracy on the Pok\u00e9mon for five turns"
+    ],
+    [
+        "Bandage",
+        "300",
+        "Bandages are applied as Extended Actions on Pok\u00e9mon or Trainers. Bandages last for 6 hours; while applied, they double the Natural Healing Rate of Pok\u00e9mon or Trainers, meaning a Pok\u00e9mon or Trainer will heal 1\/8th of their Hit Points per half hour. Bandages also immediately heal one Injury if they remain in place for their full duration."
+    ],
+    [
+        "Poultice",
+        "225",
+        "Poultices are applied as Extended Actions on Pok\u00e9mon or Trainers. Poultices last for 6 hours; while applied, they double the Natural Healing Rate of Pok\u00e9mon or Trainers, meaning a Pok\u00e9mon or Trainer will heal 1\/8th of their Hit Points per half hour. Poultices also immediately heal one Injury if they remain in place for their full duration. Repulsive"
+    ],
+    [
+        "Candy Bar",
+        "75",
+        "Snack. Grants a Digestion Buff that heals 5 Hit Points."
+    ],
+    [
+        "Honey",
+        "100",
+        "Snack. Grants a Digestion Buff that heals 5 Hit Points. May be used as Bait."
+    ],
+    [
+        "Leftovers",
+        "350",
+        "Snack. When their Digestion Buff is traded in, the user recovers 1\/16th of their max Hit Points at the beginning of each turn for the rest of the encounter."
+    ],
+    [
+        "Black Sludge",
+        "500",
+        "Poison-Type Pok\u00e9mon may consume the Black Sludge as a Snack Item; when the Digestion Buff is traded in, they recover 1\/8th of their Max Hit Points at the beginning of each turn for the rest of the encounter"
+    ],
+    [
+        "Enriched Water",
+        "75",
+        "Heals 20 Hit Points."
+    ],
+    [
+        "Shuckle's Berry Juice",
+        "",
+        "Heals 30 Hit Points."
+    ],
+    [
+        "Super Soda Pop",
+        "125",
+        "Heals 30 Hit Points."
+    ],
+    [
+        "Sparkling Lemonade",
+        "250",
+        "Heals 50 Hit Points."
+    ],
+    [
+        "MooMoo Milk",
+        "500",
+        "Heals 80 Hit Points."
+    ],
+    [
+        "Baby Food",
+        "",
+        "A nutritious food that causes young Pok\u00e9mon to grow quickly. When consumed, increases Experience Gain of Pok\u00e9mon at level 15 or lower by 20% for the rest of the day."
+    ],
+    [
+        "Mulch",
+        "200",
+        "Mulch may be used to temporarily increase soil Quality; it may be applied to a Plant to increase the Soil Quality of a plant by +1 for the following day. This cannot make a Soil Quality go above +2."
+    ],
+    [
+        "Mental Herb",
+        "300",
+        "Cures all Volatile Status Effects."
+    ],
+    [
+        "Power Herb",
+        "300",
+        "Eliminates the Set-Up turn of Moves with the Set-Up keyword."
+    ],
+    [
+        "White Herb",
+        "300",
+        "Any negative Combat Stages are set to 0."
+    ],
+    [
+        "Tiny Mushroom",
+        "",
+        "The user loses 5 HP, and gains +1 Combat Stage in a random Stat."
+    ],
+    [
+        "Big Mushroom",
+        "",
+        "The user becomes Poisoned; if they do, they gain +1 Combat Stage in two random Stats."
+    ],
+    [
+        "Balm Mushroom",
+        "",
+        "The user is cured of Burn, Paralysis, and Poison. If they are, they lose 1 Combat Stage in a random Stat."
+    ],
+    [
+        "Cheri Berry",
+        "150",
+        "Tier 1 Berry. Cures Paralysis, Cool Poffin Ingredient"
+    ],
+    [
+        "Chesto Berry",
+        "150",
+        "Tier 1 Berry. Cures Sleep, Beauty Poffin Ingredient"
+    ],
+    [
+        "Pecha Berry",
+        "150",
+        "Tier 1 Berry. Cures Poison, Cute Poffin Ingredient"
+    ],
+    [
+        "Rawst Berry",
+        "150",
+        "Tier 1 Berry. Cures Burn, Smart Poffin Ingredient"
+    ],
+    [
+        "Aspear Berry",
+        "150",
+        "Tier 1 Berry. Cures Freeze, Tough Poffin Ingredient"
+    ],
+    [
+        "Oran Berry",
+        "150",
+        "Tier 1 Berry. Restores 5 Hit Points"
+    ],
+    [
+        "Persim Berry",
+        "150",
+        "Tier 1 Berry. Cures Confusion"
+    ],
+    [
+        "Razz Berry",
+        "150",
+        "Tier 1 Berry. Cool Poffin Ingredient"
+    ],
+    [
+        "Bluk Berry",
+        "150",
+        "Tier 1 Berry. Beauty Poffin Ingredient"
+    ],
+    [
+        "Nanab Berry",
+        "150",
+        "Tier 1 Berry. Cute Poffin Ingredient"
+    ],
+    [
+        "Wepear Berry",
+        "150",
+        "Tier 1 Berry. Smart Poffin Ingredient"
+    ],
+    [
+        "Pinap Berry",
+        "150",
+        "Tier 1 Berry. Tough Poffin Ingredient"
+    ],
+    [
+        "Lum Berry",
+        "250",
+        "Tier 2 Berry. Cures any single status ailment"
+    ],
+    [
+        "Sitrus Berry",
+        "250",
+        "Tier 2 Berry. Restores 15 Hit Points"
+    ],
+    [
+        "Figy Berry",
+        "250",
+        "Tier 2 Berry. Spicy Treat*, Cool Poffin Ingredient"
+    ],
+    [
+        "Wiki Berry",
+        "250",
+        "Tier 2 Berry. Dry Treat*, Beauty Poffin Ingredient"
+    ],
+    [
+        "Mago Berry",
+        "250",
+        "Tier 2 Berry. Sweet Treat*, Cute Poffin Ingredient"
+    ],
+    [
+        "Aguav Berry",
+        "250",
+        "Tier 2 Berry. Bitter Treat*, Smart Poffin Ingredient"
+    ],
+    [
+        "Iapapa Berry",
+        "250",
+        "Tier 2 Berry. Sour Treat*, Tough Poffin Ingredient"
+    ],
+    [
+        "Liechi Berry",
+        "250",
+        "Tier 2 Berry. +1 Attack CS."
+    ],
+    [
+        "Ganlon Berry",
+        "250",
+        "Tier 2 Berry. +1 Defense CS"
+    ],
+    [
+        "Salac Berry",
+        "250",
+        "Tier 2 Berry. +1 Speed CS"
+    ],
+    [
+        "Petaya Berry",
+        "250",
+        "Tier 2 Berry. +1 Special Attack CS"
+    ],
+    [
+        "Apicot Berry",
+        "250",
+        "Tier 2 Berry. +1 Special Defense CS"
+    ],
+    [
+        "Lansat Berry",
+        "250",
+        "Tier 2 Berry. Increases Critical Range by +1 for the remainder of the encounter."
+    ],
+    [
+        "Starf Berry",
+        "250",
+        "Tier 2 Berry. +2 CS to a random Stat. May be used only at 25% HP or lower."
+    ],
+    [
+        "Enigma Berry",
+        "250",
+        "Tier 2 Berry. User gains Temporary HP equal to 1\/6th of their Max HP when hit by a Super Effective Move."
+    ],
+    [
+        "Micle Berry",
+        "250",
+        "Tier 2 Berry. Increases Accuracy by +1."
+    ],
+    [
+        "Jaboca Berry",
+        "250",
+        "Tier 2 Berry. Foe dealing Physical Damage to the user loses 1\/8 of their Maximum HP."
+    ],
+    [
+        "Rowap Berry",
+        "250",
+        "Tier 2 Berry. Foe dealing Special Damage to the user loses 1\/8 of their Maximum HP."
+    ],
+    [
+        "Cornn Berry",
+        "250",
+        "Tier 2 Berry. Cures Disabled Condition."
+    ],
+    [
+        "Magost Berry",
+        "250",
+        "Tier 2 Berry. Cures Enraged condition."
+    ],
+    [
+        "Rabuta Berry",
+        "250",
+        "Tier 2 Berry. Cures Suppressed condition."
+    ],
+    [
+        "Nomel Berry",
+        "250",
+        "Tier 2 Berry. Cures Infatuated condition."
+    ],
+    [
+        "Spelon Berry",
+        "250",
+        "Tier 2 Berry. Cool or Beauty Poffin Ingredient"
+    ],
+    [
+        "Pamtre Berry",
+        "250",
+        "Tier 2 Berry. Cute or Beauty Poffin Ingredient"
+    ],
+    [
+        "Watmel Berry",
+        "250",
+        "Tier 2 Berry. Cute or Smart Poffin Ingredient"
+    ],
+    [
+        "Durin Berry",
+        "250",
+        "Tier 2 Berry. Smart or Tough Poffin Ingredient"
+    ],
+    [
+        "Belue Berry",
+        "250",
+        "Tier 2 Berry. Cool or Tough Poffin Ingredient"
+    ],
+    [
+        "Leppa Berry",
+        "500",
+        "Tier 3 Berry. Restores a Scene Move."
+    ],
+    [
+        "Kasib Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's super effective Ghost-type move*"
+    ],
+    [
+        "Haban Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's super effective Dragon-type move*"
+    ],
+    [
+        "Colbur Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's super effective Dark-type move*"
+    ],
+    [
+        "Babiri Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's super effective Steel-type move*"
+    ],
+    [
+        "Chilan Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's Normaltype move*"
+    ],
+    [
+        "Roseli Berry",
+        "500",
+        "Tier 3 Berry. Weakens foe's supereffective Fairytype move*"
+    ],
+    [
+        "Custap Berry",
+        "500",
+        "Tier 3 Berry. Grants the Priority keyword to any Move. May only be used at 25% HP or lower."
+    ],
+    [
+        "Kee Berry",
+        "500",
+        "Tier 3 Berry. +1 Defense CS. Activates as a Free Action when hit by a Physical Move."
+    ],
+    [
+        "Maranga Berry",
+        "500",
+        "Tier 3 Berry. +1 Special Defense CS. Activates as a Free Action when hit by a Special Move."
+    ]
+]
