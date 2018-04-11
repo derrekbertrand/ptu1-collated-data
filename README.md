@@ -10,3 +10,5 @@ In addition to that this repo contains:
 - 115 items with prices and descriptions (WIP)
 - Damage bases
 - Discrete lists of Abilities and Capabilities (WIP)
+- Experience to level up
+- Type effectiveness interactions

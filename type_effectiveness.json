@@ -1,0 +1,602 @@
+[
+    {
+        "move_type": "Normal",
+        "pkmn_type": "Rock",
+        "effective": -1
+    },
+    {
+        "move_type": "Normal",
+        "pkmn_type": "Ghost",
+        "effective": false
+    },
+    {
+        "move_type": "Normal",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Water",
+        "effective": -1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Grass",
+        "effective": 1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Ice",
+        "effective": 1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Bug",
+        "effective": 1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Rock",
+        "effective": -1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Dragon",
+        "effective": -1
+    },
+    {
+        "move_type": "Fire",
+        "pkmn_type": "Steel",
+        "effective": 1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Fire",
+        "effective": 1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Water",
+        "effective": -1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Grass",
+        "effective": -1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Ground",
+        "effective": 1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Rock",
+        "effective": 1
+    },
+    {
+        "move_type": "Water",
+        "pkmn_type": "Dragon",
+        "effective": -1
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Water",
+        "effective": 1
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Electric",
+        "effective": -1
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Grass",
+        "effective": -1
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Ground",
+        "effective": false
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Flying",
+        "effective": 1
+    },
+    {
+        "move_type": "Electric",
+        "pkmn_type": "Dragon",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Water",
+        "effective": 1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Grass",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Poison",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Ground",
+        "effective": 1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Flying",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Bug",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Rock",
+        "effective": 1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Dragon",
+        "effective": -1
+    },
+    {
+        "move_type": "Grass",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Water",
+        "effective": -1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Grass",
+        "effective": 1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Ice",
+        "effective": -1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Ground",
+        "effective": 1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Flying",
+        "effective": 1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Dragon",
+        "effective": 1
+    },
+    {
+        "move_type": "Ice",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Normal",
+        "effective": 1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Ice",
+        "effective": 1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Poison",
+        "effective": -1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Flying",
+        "effective": -1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Psychic",
+        "effective": -1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Bug",
+        "effective": -1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Rock",
+        "effective": 1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Ghost",
+        "effective": false
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Dark",
+        "effective": 1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Steel",
+        "effective": 1
+    },
+    {
+        "move_type": "Fighting",
+        "pkmn_type": "Fairy",
+        "effective": -1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Grass",
+        "effective": 1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Poison",
+        "effective": -1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Ground",
+        "effective": -1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Rock",
+        "effective": -1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Ghost",
+        "effective": -1
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Steel",
+        "effective": false
+    },
+    {
+        "move_type": "Poison",
+        "pkmn_type": "Fairy",
+        "effective": 1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Fire",
+        "effective": 1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Electric",
+        "effective": 1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Grass",
+        "effective": -1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Poison",
+        "effective": 1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Flying",
+        "effective": false
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Bug",
+        "effective": -1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Rock",
+        "effective": 1
+    },
+    {
+        "move_type": "Ground",
+        "pkmn_type": "Steel",
+        "effective": 1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Electric",
+        "effective": -1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Grass",
+        "effective": 1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Fighting",
+        "effective": 1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Bug",
+        "effective": 1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Rock",
+        "effective": -1
+    },
+    {
+        "move_type": "Flying",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Psychic",
+        "pkmn_type": "Fighting",
+        "effective": 1
+    },
+    {
+        "move_type": "Psychic",
+        "pkmn_type": "Poison",
+        "effective": 1
+    },
+    {
+        "move_type": "Psychic",
+        "pkmn_type": "Psychic",
+        "effective": -1
+    },
+    {
+        "move_type": "Psychic",
+        "pkmn_type": "Dark",
+        "effective": false
+    },
+    {
+        "move_type": "Psychic",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Grass",
+        "effective": 1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Fighting",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Poison",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Flying",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Psychic",
+        "effective": 1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Ghost",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Dark",
+        "effective": 1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Bug",
+        "pkmn_type": "Fairy",
+        "effective": -1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Fire",
+        "effective": 1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Ice",
+        "effective": 1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Fighting",
+        "effective": -1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Ground",
+        "effective": -1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Flying",
+        "effective": 1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Bug",
+        "effective": 1
+    },
+    {
+        "move_type": "Rock",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Ghost",
+        "pkmn_type": "Normal",
+        "effective": false
+    },
+    {
+        "move_type": "Ghost",
+        "pkmn_type": "Psychic",
+        "effective": 1
+    },
+    {
+        "move_type": "Ghost",
+        "pkmn_type": "Ghost",
+        "effective": 1
+    },
+    {
+        "move_type": "Ghost",
+        "pkmn_type": "Dark",
+        "effective": -1
+    },
+    {
+        "move_type": "Dragon",
+        "pkmn_type": "Dragon",
+        "effective": 1
+    },
+    {
+        "move_type": "Dragon",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Dragon",
+        "pkmn_type": "Fairy",
+        "effective": false
+    },
+    {
+        "move_type": "Dark",
+        "pkmn_type": "Fighting",
+        "effective": -1
+    },
+    {
+        "move_type": "Dark",
+        "pkmn_type": "Psychic",
+        "effective": 1
+    },
+    {
+        "move_type": "Dark",
+        "pkmn_type": "Ghost",
+        "effective": 1
+    },
+    {
+        "move_type": "Dark",
+        "pkmn_type": "Dark",
+        "effective": -1
+    },
+    {
+        "move_type": "Dark",
+        "pkmn_type": "Fairy",
+        "effective": -1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Water",
+        "effective": -1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Electric",
+        "effective": -1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Ice",
+        "effective": 1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Rock",
+        "effective": 1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Steel",
+        "effective": -1
+    },
+    {
+        "move_type": "Steel",
+        "pkmn_type": "Fairy",
+        "effective": 1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Fire",
+        "effective": -1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Fighting",
+        "effective": 1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Poison",
+        "effective": -1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Dragon",
+        "effective": 1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Dark",
+        "effective": 1
+    },
+    {
+        "move_type": "Fairy",
+        "pkmn_type": "Steel",
+        "effective": -1
+    }
+]
